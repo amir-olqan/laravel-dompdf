@@ -1,5 +1,5 @@
 {
-    "name": "barryvdh/laravel-dompdf",
+    "name": "amir-olqan/laravel-dompdf",
     "description": "A DOMPDF Wrapper for Laravel",
     "license": "MIT",
     "keywords": ["laravel", "dompdf", "pdf"],
@@ -9,7 +9,7 @@
             "email": "barryvdh@gmail.com"
         }
     ],
-    
+
     "require": {
         "php": "^7.2 || ^8.0",
         "dompdf/dompdf":"^2.0.1",
@@ -17,7 +17,7 @@
         "illuminate/support": "^6|^7|^8|^9|^10|^11"
     },
     "repositories": [
-      
+
         {
             "type": "vcs",
             "url": "https://github.com/Froiden/dompdf"
